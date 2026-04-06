@@ -1,20 +1,23 @@
-# LogisticsShippingRates
-Please consider the below factors while contributing
+# Simple Interest Calculator
 
-Code Style:
-Maintain a consistent code style for readability.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+## Input:
+- p, principal amount
+- t, time period in years
+- r, annual rate of interest
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+## Output:
+- simple interest = p*t*r
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
+## Usage
+Run the bash script `simple-interest.sh` and provide the values for principal, rate of interest, and time period to calculate simple interest.
 
-Code Review:
-All contributions undergo a code review process.
+## Example
+If:
+- principal = 1000
+- rate = 5
+- time = 2
 
-Licensing:
-Contributions are licensed.
+Then:
+- simple interest = 100
